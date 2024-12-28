@@ -4,4 +4,6 @@ Exploring rust and having fun with the fundamentals.
 - Bindings (Immutable) / Mut (Mutability)
 - Crates
 - Mapping and importing
+- Functions
 - Attribute annontations
+- Struct
